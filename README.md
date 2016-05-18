@@ -1,6 +1,6 @@
 # Documents
 
-<h1>Things we need</h1>
+<h2>Part list</h2>
 
 - [ ] frame
 - [x] MPU6050 
