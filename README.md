@@ -2,9 +2,9 @@
 
 <h1>Things we need</h1>
 
-- [] frame
+- [ ] frame
 - [x] MPU6050 
 - [x] Arduino micro controller
-- [] Motors
-- [] ESC
-- [] lipo Battery
+- [ ] Motors
+- [ ] ESC
+- [ ] lipo Battery
