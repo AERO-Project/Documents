@@ -8,3 +8,4 @@
 - [ ] Motors
 - [ ] ESC
 - [ ] lipo Battery
+- [ ] Ultrasonic sensor
